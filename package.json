@@ -1,0 +1,16 @@
+{
+  "name": "blog-web-app-with-json-server",
+  "version": "1.0.0",
+  "description": "A simple blog web application created for practicing CRUD operations using `json-server`, which simulates a RESTful API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.17.3",
+    "npm": "9.7.2"
+  }
+}

@@ -26,6 +26,7 @@ A simple blog web application created for practicing CRUD operations using `json
    git clone https://github.com/Sabbir1039/Blog-web-app-with-json-server-dummy-rest-api.git
 
 2. **Install Dependencies**
+    ```bash
     npm install
 
 3. **Setup json-server**
@@ -35,5 +36,6 @@ A simple blog web application created for practicing CRUD operations using `json
     }
 
 4. **Start the Application**
+    ```bash 
     json-server --watch db.json & npm start
 
